@@ -1,0 +1,97 @@
+button:hover{
+    background: #514988;
+    cursor: pointer;
+    color: #f3c61f;
+    
+}
+button{
+    background: #514988;
+    color: white;
+}
+
+header{
+    background-color: #ffd900;
+    padding: 30px;
+   
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.titulo{
+    font-size: 59px;
+    color: #ffd900;
+}
+h2{
+    font-size: 30px;
+    color: white;
+    align-items: center;
+}
+
+#container1{
+    background-color: #514988;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+ 
+}
+h3{
+    color: white;
+    margin-top: 30px;
+    font-style: normal;
+    font-size: 25px;
+    font-weight: normal;
+    
+}
+#container2{
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    color: #514988;
+    font: bolder;
+}
+.timer{
+    display: grid;
+    grid-auto-flow: column;
+    margin-top: 20px;
+    color: #514988;
+    font-size: 45px;
+    
+ 
+}
+button{
+    width: 400px;
+    height: 130px;
+    font-size: 32px;
+    border-radius: 15px;
+    border: 5px;
+    margin-top: 60px;
+
+}
+#ainda{
+    color: #f3c61f;
+    align-items: center;
+    text-align: center;
+    font-weight:bold ;
+    font-size: 25px;
+}
+
+#alerta{
+    color: #E33881;
+    font: bold;
+    text-align: center;
+    font-size: 25px;
+    
+    
+}
+#section1{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+#section2{
+    display: grid;
+    grid-auto-flow: column;
+    
+}
